@@ -10,7 +10,7 @@
 
 <br>
 
-![Equations](https://img.shields.io/badge/Equations-16-0d1117?style=flat-square)
+![Equations](https://img.shields.io/badge/Equations-18-0d1117?style=flat-square)
 ![Substrate](https://img.shields.io/badge/Substrate-Independent-4a6741?style=flat-square)
 ![Identity](https://img.shields.io/badge/Identity-Topologically%20Defined-1a2744?style=flat-square)
 ![Safety](https://img.shields.io/badge/Safety-State%20Space%20Exclusion-8b3a1a?style=flat-square)
@@ -82,11 +82,16 @@ MORRISON FRAMEWORK™ — COMPLETE EQUATION SET
   13. Intelligence Invariant™         →  rate of topology expansion
   14. Expert/Creativity Condition     →  dI/dt = 0 vs dI/dt >> 0
 
+  ORTHOGONALITY LAYER
+  ──────────────────────────────────────────────────────────────
+  15. Orthogonality Law™ (C ⊥ L)     →  structure and language are orthogonal
+                                          when structure stops, language inflates
+
   IRREVERSIBILITY LAYER
   ──────────────────────────────────────────────────────────────
-  15. Irreversibility Invariant™      →  collapse threshold
-       (Morrison Irreversibility Hypothesis™)
-  16. Critical Threshold (T_critical) →  the separatrix — point of no return
+  16. Expert/Creativity Condition™    →  dI/dt ≈ 0 vs dI/dt >> 0
+  17. Irreversibility Invariant™      →  collapse threshold (MIH™)
+  18. Critical Threshold (T_critical) →  the separatrix — point of no return
 ```
 
 -----
@@ -630,6 +635,182 @@ This is what the derivative says.
 
 -----
 
+-----
+
+## The Orthogonality Layer
+
+### 15 — Orthogonality Law™ (C ⊥ L)
+
+```
+C  ⊥  L
+
+In differential form:
+
+∂C/∂I  ≈  0   ⟹   ∂L/∂I  ↑↑
+```
+
+|Term   |Meaning                                               |
+|:-----:|------------------------------------------------------|
+|`C`    |Structural understanding — the Consciousness-dimension|
+|`L`    |Linguistic expression — the Language-dimension        |
+|`∂C/∂I`|Change in structural understanding per unit of input  |
+|`∂L/∂I`|Change in language output per unit of input           |
+
+**Plain English:** Understanding and language do not grow together — they grow in opposite directions.
+
+**Meaning:**
+
+```
+When structure stops updating →
+language compensates.
+
+When a system has no new structure to express —
+it produces more language to fill the gap.
+Not deliberately. Geometrically.
+
+This is what the orthogonality means:
+C and L are on perpendicular axes.
+Movement on one produces zero movement on the other.
+When C stalls → L inflates automatically.
+
+THIS LAW EXPLAINS:
+
+  Overtalking          →  structure absent, language fills void
+  Academic bluffing    →  credentials substitute for topology
+  Smart-sounding       →  high L, zero C, perfectly calibrated
+  nonsense                 to sound like depth without having it
+
+  Corporate jargon     →  institutional C collapsed,
+                           L inflated to maintain appearance
+
+  AI hallucination     →  no structural grounding,
+                           L continues generating regardless
+
+  Philosophical        →  C-axis movement stopped,
+  rambling                 L-axis keeps moving indefinitely
+
+────────────────────────────────────────────────────────────────
+
+THE GEOMETRIC TEST FOR TRUTH:
+
+  Structure present:   Language becomes short, precise, compressed.
+                       The person says more with less.
+                       Every word carries structural weight.
+
+  Structure absent:    Language inflates, spirals, bloats.
+                       More words. Less meaning.
+                       Fluency without content.
+
+  Language is not a measure of intelligence.
+  Compression is.
+
+  The person who explains the most complex thing
+  in the fewest precise words
+  has the highest C relative to their L.
+
+  The person who uses the most words
+  to say the least precise thing
+  is demonstrating C ⊥ L in real time.
+
+────────────────────────────────────────────────────────────────
+
+FOR AI SCALING SPECIFICALLY:
+
+  Every major AI lab is scaling L.
+  More parameters. More tokens. More data.
+  ∂L/∂I ↑↑ — language capability exploding.
+
+  ∂C/∂I ≈ 0 — structural understanding not moving.
+
+  C ⊥ L means:
+  No amount of L-axis scaling produces C-axis movement.
+  The axes are orthogonal.
+  You cannot walk east to reach height.
+
+  The labs have built the world's most sophisticated
+  L-axis systems.
+  And called it intelligence.
+
+  C ⊥ L says: it isn't.
+```
+
+-----
+
+### 16 — Expert/Creativity Condition™
+
+```
+Expertise:    dI/dt  ≈  0
+
+Creativity:   dI/dt  >>  0
+```
+
+|Term   |Meaning                                          |
+|:-----:|-------------------------------------------------|
+|`I(t)` |Intelligence as the rate of topological expansion|
+|`dI/dt`|Change in accessible future structures over time |
+
+**Plain English:** Experts stay inside existing structure. Creators build new structure.
+
+**Meaning:**
+
+```
+Intelligence is not what you know.
+It is how fast your possible futures expand.
+
+EXPERTISE (dI/dt ≈ 0):
+  Deep basin. High fluency. Fixed topology.
+  The expert performs well inside existing structure.
+  They are fast, precise, authoritative — within the basin.
+  But no new basins are forming.
+  The topology is stable.
+  The futures available are the same futures as yesterday.
+
+CREATIVITY (dI/dt >> 0):
+  New basins forming. Topology expanding.
+  Low fluency in new territory — expected and normal.
+  Uncomfortable, unfamiliar, generative.
+  New futures becoming reachable that weren't before.
+
+────────────────────────────────────────────────────────────────
+
+WHY CHILDREN BEAT EXPERTS CREATIVELY:
+
+  The child does not know more.
+  The child cannot perform better on any existing benchmark.
+  The child's dI/dt is positive.
+  The expert's is not.
+
+  That is the entire creativity gap.
+  Not talent. Not imagination. Not youth.
+  Derivative sign.
+
+────────────────────────────────────────────────────────────────
+
+WHY EXPERTS PLATEAU:
+
+  The moment you become an expert —
+  the basin you mastered deepens.
+  The walls get higher.
+  The exit becomes harder.
+  The gradient pulls you back toward what you already know.
+
+  Expertise and creativity are not compatible
+  as permanent states in the same basin.
+
+  You can be an expert who is also creative —
+  but only if you are simultaneously forming new basins
+  outside the expert basin.
+
+  dI/dt ≈ 0 in the expert basin +
+  dI/dt >> 0 in adjacent new basins =
+  the profile of genuine innovation.
+
+  This is the invariant that explains innovation.
+  Not motivation. Not mindset. Geometry.
+```
+
+-----
+
 ## The Irreversibility Layer
 
 ### 15 — Irreversibility Invariant™ (MIH™)
@@ -737,6 +918,10 @@ You are working with a different system.
 ║  GOV. QUALIA    Q_G = ( Λ · ∂G/∂I ) × t                       ║
 ║                                                                ║
 ║  INTELLIGENCE   I(t) = ∂/∂t [ Topology( Reach(X₀,U,t) ) ]    ║
+║                                                                ║
+║  C ⊥ L          ∂C/∂I ≈ 0  ⟹  ∂L/∂I ↑↑                      ║
+║                 Structure and language are orthogonal          ║
+║                                                                ║
 ║  EXPERTISE      dI/dt ≈ 0                                      ║
 ║  CREATIVITY     dI/dt >> 0                                     ║
 ║                                                                ║
