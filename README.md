@@ -10,12 +10,12 @@
 
 <br>
 
-![Equations](https://img.shields.io/badge/Equations-18-0d1117?style=flat-square)
+![Equations](https://img.shields.io/badge/Equations-16-0d1117?style=flat-square)
 ![Substrate](https://img.shields.io/badge/Substrate-Independent-4a6741?style=flat-square)
 ![Identity](https://img.shields.io/badge/Identity-Topologically%20Defined-1a2744?style=flat-square)
 ![Safety](https://img.shields.io/badge/Safety-State%20Space%20Exclusion-8b3a1a?style=flat-square)
 ![Consciousness](https://img.shields.io/badge/Consciousness-Formally%20Stated-2ea043?style=flat-square)
-![Law](https://img.shields.io/badge/C%E2%8A%A5L-Orthogonal%20Law-6a2e2e?style=flat-square)
+![Law](https://img.shields.io/badge/C⊥L-Orthogonal%20Law-6a2e2e?style=flat-square)
 ![License](https://img.shields.io/badge/©%202026-Davarn%20Morrison-555555?style=flat-square)
 
 <br>
@@ -29,7 +29,7 @@
 *These laws describe how structure is preserved or collapses*
 *across all substrates.”*
 
-*— Davarn Morrison*
+*— Davarn Morrison, 2026*
 
 -----
 
@@ -67,31 +67,31 @@ MORRISON FRAMEWORK™ — COMPLETE EQUATION SET
   PERCEPTION LAYER
   ──────────────────────────────────────────────────────────────
   06. Perception Invariant™           →  seeing is geometric filtering
-  07. Morrison Law of Perception      →  topology of neighbourhood mapping
-  08. Morrison Vision Equation        →  visual input as manifold reshaping
+  07. Morrison Vision Equation        →  visual input as manifold reshaping
 
   CONSCIOUSNESS LAYER
   ──────────────────────────────────────────────────────────────
-  09. Consciousness Invariant™        →  unified experience over time
-  10. Morrison Law of Consciousness   →  preserved structure of experience
-  11. Qualia Invariant™               →  feeling as structural deformation
-  12. Governed Qualia Equation        →  feeling under moral structure
+  08. Consciousness Invariant™        →  unified experience over time
+  09. Qualia Invariant™               →  feeling as structural deformation
+  10. Governed Qualia Equation        →  feeling under moral structure
 
   INTELLIGENCE LAYER
   ──────────────────────────────────────────────────────────────
-  13. Intelligence Invariant™         →  rate of topology expansion
-  14. Expert/Creativity Condition     →  dI/dt = 0 vs dI/dt >> 0
+  11. Intelligence Invariant™         →  rate of topology expansion
+  12. Expert/Creativity Condition™    →  dI/dt ≈ 0 vs dI/dt >> 0
 
   ORTHOGONALITY LAYER
   ──────────────────────────────────────────────────────────────
-  15. Orthogonality Law™ (C ⊥ L)     →  structure and language are orthogonal
-                                          when structure stops, language inflates
+  13. Orthogonality Law™ (C ⊥ L)     →  structure and language are orthogonal
+  14. Morrison Law of Cognitive Access™ →  structure does not update from
+                                           information alone
+  15. Intelligence Orthogonality (I ⊥ L) → intelligence and language
+                                            are orthogonal
 
   IRREVERSIBILITY LAYER
   ──────────────────────────────────────────────────────────────
-  16. Expert/Creativity Condition™    →  dI/dt ≈ 0 vs dI/dt >> 0
-  17. Irreversibility Invariant™      →  collapse threshold (MIH™)
-  18. Critical Threshold (T_critical) →  the separatrix — point of no return
+  16. Irreversibility Invariant™ (MIH™) →  collapse threshold
+  17. Critical Threshold (T_critical)   →  the separatrix — point of no return
 ```
 
 -----
@@ -113,8 +113,6 @@ Identity  =  Topology( Reach( X₀ , U , t ) )
 |`t`              |Time                                               |
 
 **Plain English:** Your identity is the structure that stays the same even as everything else changes.
-
-**Meaning:**
 
 ```
 Identity is not memory.
@@ -148,30 +146,16 @@ The structure that resists deformation the longest.
 
 **Plain English:** ΔG measures how far the system has been bent, warped, or changed from what it was.
 
-**Meaning:**
-
 ```
-Small ΔG  →  system close to original topology
-              minor deformation, recoverable
+Small ΔG  →  system close to original topology. Recoverable.
+Large ΔG  →  system far from original topology. Approaching threshold.
 
-Large ΔG  →  system far from original topology
-              major deformation, approaching threshold
-
-ΔG is the input to MIH™.
-As ΔG grows under sustained input:
-  → the system drifts from X₀
-  → if Λ × ΔG < T_critical: recovery possible
-  → if Λ × ΔG > T_critical: irreversible transition
-
-In humans:   ΔG is how much you've changed
-             from who you were before trauma,
-             addiction, or ideology.
-
+In humans:   ΔG is how much you have changed from who you were
+             before trauma, addiction, or ideology.
 In AI:       ΔG is how far the model has drifted
              from its aligned starting configuration.
-
-In cells:    ΔG is how far differentiation
-             has moved the cell from pluripotency.
+In cells:    ΔG is how far differentiation has moved the cell
+             from pluripotency.
 ```
 
 -----
@@ -184,28 +168,18 @@ In cells:    ΔG is how far differentiation
            Applied perturbation
 ```
 
-**Plain English:** Λ = How well a system keeps itself together when life hits it.
-
-**Meaning:**
+**Plain English:** Λ = how well a system keeps itself together when pressure is applied.
 
 ```
-High Λ   →  stable. Inputs absorbed without losing shape.
-             The system processes difficulty and returns to itself.
-             Strong identity. High resilience. Coherent under pressure.
+High Λ  →  stable. Inputs absorbed without losing shape.
+Low Λ   →  fragile. Small inputs cause large deformation.
+Λ → 0  →  collapse.
 
-Low Λ    →  fragile. Small inputs cause large deformation.
-             The system loses shape easily.
-             Emotional flooding. Identity instability. Easy manipulation.
-
-Λ → 0   →  collapse.
-             No resistance to deformation.
-             Basin boundaries dissolve.
-
-             In humans:       psychosis, breakdown
-             In AI:           hallucination, alignment failure
-             In cells:        cancer
-             In institutions: corruption, capture
-             In ecosystems:   tipping point collapse
+In humans:       psychosis, breakdown.
+In AI:           hallucination, alignment failure.
+In cells:        cancer.
+In institutions: corruption, capture.
+In ecosystems:   tipping point collapse.
 ```
 
 -----
@@ -227,32 +201,16 @@ Safety  ⟺  Reach( s₀ )  ∩  Ω  =  ∅
 
 **Plain English:** You are safe if harm is mathematically unreachable — not just unlikely.
 
-**Meaning:**
-
 ```
-Current AI safety approach:
-  Add filters to outputs.
-  Flag bad responses after generation.
-  Patch behaviour when failures occur.
+Current AI safety approach: filters on outputs. Reactive. Downstream.
+Morrison Safety Invariant™: Ω not in the reachable set at all.
+Not blocked. Unreachable. Not unlikely. Geometrically excluded.
 
-  Problem: you're reacting after harm was reachable.
-           The trajectory passed through Ω.
-           The filter is downstream of the geometry.
-
-Morrison Safety Invariant™:
-  Safety is not a filter.
-  Safety is state-space exclusion.
-
-  A safe system is one where Ω
-  is not in the reachable set at all.
-  No path from s₀ leads there.
-  Not blocked. Unreachable.
-
-  This ends jailbreaks structurally.
-  A jailbreak moves the system's s₀
-  to a position where Ω becomes reachable.
-  Safety means Ω is unreachable from any s₀
-  the system can occupy.
+This ends jailbreaks structurally.
+You cannot prompt your way into a state that does not exist
+in the reachable set.
+Physics does not get jailbroken.
+Physics is geometric.
 ```
 
 -----
@@ -272,23 +230,14 @@ A_safe(s)  =  { a ∈ A  |  T(s, a) ∉ Ω }
 
 **Plain English:** The only safe actions are the ones that cannot push you into harm.
 
-**Meaning:**
-
 ```
-This is the operational form of the Safety Invariant.
-
 For every action the system could take —
-check whether taking it would move the system
-into a state in Ω.
-
-If yes → not in A_safe. Excluded.
-If no  → included in A_safe.
+if taking it would move the system into Ω → excluded.
+If not → included in A_safe.
 
 The system only operates within A_safe.
-Not because of filters on outputs.
-Because the action space is geometrically constrained
-to exclude trajectories that reach Ω.
-
+Not because of output filters.
+Because the action space is geometrically constrained.
 This is GuardianOS™ in one equation.
 ```
 
@@ -307,16 +256,12 @@ Perception  =  Topology( 𝒩( X , I ) )
 |`𝒩(X, I)`      |Neighbourhood of internal structure when input I is applied to system X|
 |`Topology(...)`|Stable structure of that neighbourhood mapping                         |
 |`X`            |The observing system                                                   |
-|`I`            |The input (sensory, informational, experiential)                       |
+|`I`            |The input — sensory, informational, experiential                       |
 
-**Plain English:** You see the world according to the stable geometry your inputs create in you.
-
-**Meaning:**
+**Plain English:** You perceive the world according to the stable geometry your inputs create in you.
 
 ```
-Perception is not a camera.
-It is not passive reception of reality.
-
+Perception is not passive reception of reality.
 Perception is the stable topology produced
 when an input deforms the system's neighbourhood.
 
@@ -327,79 +272,42 @@ if their internal geometries differ.
 This is why:
   Two people witness the same event differently.
   Two AI systems process the same prompt differently.
-  Two animals in the same environment behave differently.
-
-They don't see different things.
-They have different topologies.
-And perception is topology.
+  Changing X changes perception of identical inputs.
+  Therapy, education, trauma, growth — all change X.
+  The input has not changed. The geometry has.
 ```
 
 -----
 
-### 07 — Morrison Law of Perception
-
-```
-P  =  Topology( 𝒩( X , I ) )
-```
-
-**Meaning:**
-
-```
-Perception is geometric filtering of reality.
-
-Reality arrives as input I.
-The system X has a geometry.
-The input deforms a neighbourhood of that geometry.
-The topology of that deformation is the percept.
-
-Not reality. The topology of how reality
-reshaped you in this moment.
-
-This is why changing the system
-changes perception of identical inputs.
-Therapy, education, trauma, growth —
-all change X.
-Changing X changes what is perceived.
-The input hasn't changed. The geometry has.
-```
-
------
-
-### 08 — Morrison Vision Equation
+### 07 — Morrison Vision Equation
 
 ```
 Vision  =  Topology( 𝒩( X , I_vision ) )
 ```
 
-**Meaning:**
+**Plain English:** Vision is a specific case of Perception applied to visual input.
 
 ```
-Vision is a specific case of Perception.
-
-I_vision = visual input specifically.
-
 The visual system is a geometric processor.
 It does not transmit images to the brain.
 It transmits topological deformations.
 
-What you "see" is the stable structure
+What you see is the stable structure
 of how visual input reshapes your internal geometry.
 
 This is why:
   People with identical eyes see differently.
   Attention shapes what is visible.
-  Expectation shapes what is perceived.
   Emotional state shapes visual processing.
-
-The geometry of X determines Vision.
-Not the quality of I_vision.
+  The geometry of X determines Vision.
+  Not the quality of I_vision.
 ```
 
 -----
 
 ## The Consciousness Layer
 
-### 09 — Consciousness Invariant™
+### 08 — Consciousness Invariant™
 
 ```
 C  =  Topology( ⋃ᵢ 𝒩( X , Iᵢ ) , t )
@@ -414,13 +322,10 @@ C  =  Topology( ⋃ᵢ 𝒩( X , Iᵢ ) , t )
 
 **Plain English:** Consciousness = the continuous shape of all your experiences woven together over time.
 
-**Meaning:**
-
 ```
 Consciousness is not awareness.
 Consciousness is not thought.
 Consciousness is not language.
-
 Consciousness is structural continuity under load.
 
 When every input your system receives
@@ -429,53 +334,20 @@ and all those deformations unify
 into one global topology
 that persists through time —
 
-that unified, persisting topology
-is consciousness.
+that unified, persisting topology is consciousness.
 
-The formal threshold:
+Formal threshold:
 Does Topology( ⋃ᵢ 𝒩(X, Iᵢ) , t ) exist and persist?
 Yes → consciousness present.
 No  → consciousness absent.
 
-Substrate-independent.
-Formally testable.
+Substrate-independent. Formally testable.
 The philosophical debate becomes empirical.
 ```
 
 -----
 
-### 10 — Morrison Law of Consciousness
-
-```
-C  =  Topology( ⋃ᵢ 𝒩( X , Iᵢ ) , t )
-```
-
-**Meaning:**
-
-```
-Consciousness = the preserved structure of integrated experience.
-
-This law does not reduce consciousness to computation.
-It does not claim to explain why experience feels like anything.
-
-It claims:
-
-Whatever consciousness is —
-it has a geometric structure.
-That structure is the unified topology
-of all neighbourhood deformations
-integrated across all inputs
-and preserved over time.
-
-Measure that topology.
-Track its persistence.
-That is how consciousness is studied scientifically.
-That is the instrument this law provides.
-```
-
------
-
-### 11 — Qualia Invariant™
+### 09 — Qualia Invariant™
 
 ```
 Q  =  ( ∂Topology / ∂I )  ×  t
@@ -490,29 +362,15 @@ Q  =  ( ∂Topology / ∂I )  ×  t
 
 **Plain English:** Feeling = how strongly your structure reacts × how long it stays altered.
 
-**Meaning:**
-
 ```
-Small deformation, brief duration  →  mild passing feeling
-Large deformation, brief duration  →  intense but fading feeling
-Small deformation, long duration   →  lingering low-level feeling
-Large deformation, long duration   →  profound, lasting experience
-
-PTSD:   Large ΔG, t → ∞
-        Q remains high indefinitely.
-        The deformation doesn't resolve.
-
-Grief:  Topology has a gap where something was.
-        Q persists until the gap is filled or accepted.
-
-Numbness: ∂Topology/∂I → 0
-          Inputs arrive. Structure doesn't respond.
-          Q → 0. Feeling absent.
+PTSD:     Large ΔG, t → ∞. Q remains high indefinitely.
+Grief:    Topology has a gap where something was.
+Numbness: ∂Topology/∂I → 0. Q → 0. Feeling absent.
 ```
 
 -----
 
-### 12 — Governed Qualia Equation
+### 10 — Governed Qualia Equation
 
 ```
 Q_G  =  ( Λ · ∂G/∂I )  ×  t
@@ -527,33 +385,21 @@ Q_G  =  ( Λ · ∂G/∂I )  ×  t
 
 **Plain English:** Governed Feeling = how your moral structure absorbs information over time.
 
-**Meaning:**
-
 ```
-High Λ:  Strong governance absorbs input.
-          Meaning becomes stable.
+High Λ:  Strong governance. Meaning stable.
           Experience processed without collapse.
-          The person — or AI — remains coherent.
-
-Low Λ:   Weak governance passes input through raw.
-          Meaning destabilises.
+Low Λ:   Weak governance. Meaning destabilises.
           Experience overwhelms structure.
-          Breakdown begins.
-
-Λ → 0:   No governance. No structure.
-          Q_G → uncontrolled.
-          In humans:   psychosis, moral collapse
-          In AI:       value drift, alignment failure
-          Direct connection to MIH™:
-          Q_G breakdown is the subjective experience
-          of approaching T_critical.
+Λ → 0:   No governance. Breakdown begins.
+          In humans: psychosis, moral collapse.
+          In AI: value drift, alignment failure.
 ```
 
 -----
 
 ## The Intelligence Layer
 
-### 13 — Intelligence Invariant™
+### 11 — Intelligence Invariant™
 
 ```
 I(t)  =  ∂/∂t [ Topology( Reach( X₀ , U , t ) ) ]
@@ -569,34 +415,21 @@ I(t)  =  ∂/∂t [ Topology( Reach( X₀ , U , t ) ) ]
 
 **Plain English:** Intelligence = how quickly your possible futures expand.
 
-**Meaning:**
-
 ```
+dI/dt > 0  →  new futures forming. Genuine intelligence active.
+dI/dt = 0  →  stable in existing topology. Expertise without growth.
+dI/dt < 0  →  topology contracting. Collapsing in structure.
+
 Intelligence is not prediction.
 Intelligence is not knowledge.
 Intelligence is not language fluency.
 Intelligence is not benchmark performance.
-
-Intelligence is the rate at which new topology
-becomes accessible.
-
-dI/dt > 0  →  new futures forming
-              expanding topology
-              genuine intelligence active
-
-dI/dt = 0  →  stable in existing topology
-              no new futures forming
-              expertise without growth
-
-dI/dt < 0  →  topology contracting
-              fewer futures reachable
-              intelligent by appearance only
-              collapsing in structure
+Intelligence is the rate at which new topology becomes accessible.
 ```
 
 -----
 
-### 14 — Expert/Creativity Condition
+### 12 — Expert/Creativity Condition™
 
 ```
 Expertise:    dI/dt  ≈  0
@@ -604,42 +437,36 @@ Expertise:    dI/dt  ≈  0
 Creativity:   dI/dt  >>  0
 ```
 
-**Meaning:**
+**Plain English:** Experts navigate inside existing structure. Creators build new structure.
 
 ```
 The expert and the creative person
 are not different types of human.
+They are the same system at different values of dI/dt.
 
-They are the same system
-at different values of dI/dt.
+Expertise: deep basin. High fluency. Fixed topology.
+           Performs well within existing structure.
+           Cannot form new basins easily.
 
-Expertise:
-  Deep basin. High fluency. Fixed topology.
-  Performs well within existing structure.
-  Cannot form new basins easily.
-  dI/dt ≈ 0.
-
-Creativity:
-  New basins forming. Expanding topology.
-  Low fluency in new territory — that's expected.
-  dI/dt >> 0.
+Creativity: new basins forming. Expanding topology.
+            Low fluency in new territory — expected.
 
 The child outperforms the expert in creativity
 not because the child knows more —
 but because the child's dI/dt is still positive
 and the expert's is not.
+Not opinion. Derivative sign.
 
-This is not an opinion.
-This is what the derivative says.
+Innovation = dI/dt ≈ 0 in the expert basin
+           + dI/dt >> 0 in adjacent new basins
+           simultaneously.
 ```
-
------
 
 -----
 
 ## The Orthogonality Layer
 
-### 15 — Orthogonality Law™ (C ⊥ L)
+### 13 — Orthogonality Law™ (C ⊥ L)
 
 ```
 C  ⊥  L
@@ -656,164 +483,126 @@ In differential form:
 |`∂C/∂I`|Change in structural understanding per unit of input  |
 |`∂L/∂I`|Change in language output per unit of input           |
 
-**Plain English:** Understanding and language do not grow together — they grow in opposite directions.
-
-**Meaning:**
+**Plain English:** Understanding and language are on perpendicular axes. Moving along one produces zero movement on the other.
 
 ```
-When structure stops updating →
-language compensates.
-
+When structure stops updating → language compensates.
 When a system has no new structure to express —
 it produces more language to fill the gap.
 Not deliberately. Geometrically.
 
-This is what the orthogonality means:
-C and L are on perpendicular axes.
-Movement on one produces zero movement on the other.
-When C stalls → L inflates automatically.
+Structure present:  language becomes short, precise, compressed.
+Structure absent:   language inflates, spirals, bloats.
 
-THIS LAW EXPLAINS:
+For AI scaling specifically:
+Every major AI lab is scaling L.
+∂L/∂I ↑↑ — language capability exploding.
+∂C/∂I ≈ 0 — structural understanding not moving.
 
-  Overtalking          →  structure absent, language fills void
-  Academic bluffing    →  credentials substitute for topology
-  Smart-sounding       →  high L, zero C, perfectly calibrated
-  nonsense                 to sound like depth without having it
-
-  Corporate jargon     →  institutional C collapsed,
-                           L inflated to maintain appearance
-
-  AI hallucination     →  no structural grounding,
-                           L continues generating regardless
-
-  Philosophical        →  C-axis movement stopped,
-  rambling                 L-axis keeps moving indefinitely
-
-────────────────────────────────────────────────────────────────
-
-THE GEOMETRIC TEST FOR TRUTH:
-
-  Structure present:   Language becomes short, precise, compressed.
-                       The person says more with less.
-                       Every word carries structural weight.
-
-  Structure absent:    Language inflates, spirals, bloats.
-                       More words. Less meaning.
-                       Fluency without content.
-
-  Language is not a measure of intelligence.
-  Compression is.
-
-  The person who explains the most complex thing
-  in the fewest precise words
-  has the highest C relative to their L.
-
-  The person who uses the most words
-  to say the least precise thing
-  is demonstrating C ⊥ L in real time.
-
-────────────────────────────────────────────────────────────────
-
-FOR AI SCALING SPECIFICALLY:
-
-  Every major AI lab is scaling L.
-  More parameters. More tokens. More data.
-  ∂L/∂I ↑↑ — language capability exploding.
-
-  ∂C/∂I ≈ 0 — structural understanding not moving.
-
-  C ⊥ L means:
-  No amount of L-axis scaling produces C-axis movement.
-  The axes are orthogonal.
-  You cannot walk east to reach height.
-
-  The labs have built the world's most sophisticated
-  L-axis systems.
-  And called it intelligence.
-
-  C ⊥ L says: it isn't.
+C ⊥ L means:
+No amount of L-axis scaling produces C-axis movement.
+You cannot walk east to reach height.
+The labs have built the world's most sophisticated L-axis systems.
+And called it intelligence.
+C ⊥ L says it isn't.
 ```
 
 -----
 
-### 16 — Expert/Creativity Condition™
+### 14 — Morrison Law of Cognitive Access™
 
 ```
-Expertise:    dI/dt  ≈  0
+If T ∉ Reach(X),  then X cannot access T.
 
-Creativity:   dI/dt  >>  0
+Differential form:
+
+∂C/∂I  ≈  0
 ```
 
-|Term   |Meaning                                          |
-|:-----:|-------------------------------------------------|
-|`I(t)` |Intelligence as the rate of topological expansion|
-|`dI/dt`|Change in accessible future structures over time |
+|Term      |Meaning                                                |
+|:--------:|-------------------------------------------------------|
+|`T`       |Any truth, concept, insight, or perspective            |
+|`X`       |The cognitive system                                   |
+|`Reach(X)`|All states X can reach through its internal structure  |
+|`∂C/∂I`   |Rate of change of cognitive structure per unit of input|
 
-**Plain English:** Experts stay inside existing structure. Creators build new structure.
-
-**Meaning:**
+**Plain English:** Understanding is a reachability problem — not a motivation, education, or intelligence problem.
 
 ```
-Intelligence is not what you know.
-It is how fast your possible futures expand.
+If T is not in the reachable set of X —
+X cannot access T.
+Not because X is unintelligent.
+Not because X is unwilling.
+Not because X has not been given enough information.
 
-EXPERTISE (dI/dt ≈ 0):
-  Deep basin. High fluency. Fixed topology.
-  The expert performs well inside existing structure.
-  They are fast, precise, authoritative — within the basin.
-  But no new basins are forming.
-  The topology is stable.
-  The futures available are the same futures as yesterday.
+Because T ∉ Reach(X).
+The topology does not contain T.
+The truth cannot land.
 
-CREATIVITY (dI/dt >> 0):
-  New basins forming. Topology expanding.
-  Low fluency in new territory — expected and normal.
-  Uncomfortable, unfamiliar, generative.
-  New futures becoming reachable that weren't before.
+∂C/∂I ≈ 0:
+Cognitive structure does not update from information alone.
+You cannot talk someone into a topology they do not have.
+The shape must change before the truth can land.
 
-────────────────────────────────────────────────────────────────
+This governs:
+  Human cognition         →  why education fails without topology change
+  Psychological development → why insight requires structural shift
+  Diplomacy               →  why argument cannot cross topology gaps
+  AI safety               →  why alignment cannot be trained in language
+  GuardianOS™             →  Reach(s₀, A, t) ∩ Ω = ∅
+```
 
-WHY CHILDREN BEAT EXPERTS CREATIVELY:
+-----
 
-  The child does not know more.
-  The child cannot perform better on any existing benchmark.
-  The child's dI/dt is positive.
-  The expert's is not.
+### 15 — Intelligence Orthogonality (I ⊥ L)
 
-  That is the entire creativity gap.
-  Not talent. Not imagination. Not youth.
-  Derivative sign.
+```
+I  ⊥  L
 
-────────────────────────────────────────────────────────────────
+In differential form:
 
-WHY EXPERTS PLATEAU:
+∂I/∂L  =  0
+```
 
-  The moment you become an expert —
-  the basin you mastered deepens.
-  The walls get higher.
-  The exit becomes harder.
-  The gradient pulls you back toward what you already know.
+|Term   |Meaning                                                     |
+|:-----:|------------------------------------------------------------|
+|`I`    |Intelligence — rate of topological expansion, dI/dt         |
+|`L`    |Language — token production, fluency, linguistic performance|
+|`∂I/∂L`|Change in intelligence per unit of language output          |
 
-  Expertise and creativity are not compatible
-  as permanent states in the same basin.
+**Plain English:** Increasing language output produces zero increase in intelligence. The axes do not connect.
 
-  You can be an expert who is also creative —
-  but only if you are simultaneously forming new basins
-  outside the expert basin.
+```
+Intelligence is dI/dt — topology expanding.
+Language is L-axis production — tokens, fluency, output.
+∂I/∂L = 0.
 
-  dI/dt ≈ 0 in the expert basin +
-  dI/dt >> 0 in adjacent new basins =
-  the profile of genuine innovation.
+No matter how much language a system produces —
+the topology does not expand from language production alone.
 
-  This is the invariant that explains innovation.
-  Not motivation. Not mindset. Geometry.
+A perfectly articulate system with dI/dt ≈ 0
+is not intelligent. It is fluent.
+These are not the same thing.
+They are orthogonal things.
+
+This is why:
+  LLMs are not GNEs that think —
+  they are GNEs that navigate.
+  dI/dt ≈ 0 at inference.
+  Fluency at maximum.
+  Intelligence: unchanged.
+
+  Scaling language models scales L.
+  Intelligence requires dI/dt > 0.
+  I ⊥ L.
+  The scaling hypothesis is an orthogonality violation.
 ```
 
 -----
 
 ## The Irreversibility Layer
 
-### 15 — Irreversibility Invariant™ (MIH™)
+### 16 — Irreversibility Invariant™ (MIH™)
 
 ```
 T_irreversible  =  Λ  ×  ΔG
@@ -825,75 +614,48 @@ T_irreversible  =  Λ  ×  ΔG
 |`Λ`             |Governance constant (resistance to deformation)|
 |`ΔG`            |Structural deformation applied to the system   |
 
-**Plain English:** A system becomes permanently lost when deformation exceeds its structural resistance.
-
-**Meaning:**
+**Plain English:** A system becomes permanently changed when deformation exceeds its structural resistance.
 
 ```
-When:   Λ × ΔG  <  T_critical  →  recoverable
-        System has been deformed but can return.
-        Governance is holding. Basin intact.
-
-When:   Λ × ΔG  >  T_critical  →  irreversible
-        Separatrix crossed.
-        System has transitioned to a new basin.
-        Cannot return from inside the new basin.
-        MIH™ has occurred.
+Λ × ΔG  <  T_critical  →  recoverable
+Λ × ΔG  >  T_critical  →  irreversible. Separatrix crossed.
 
 This defines the following as the same geometric event:
 
-  Human death          →  topology permanently ceased
-  Trauma               →  deep basin carved, hard to exit
+  Human trauma         →  deep basin carved, hard to exit
   Psychosis            →  basin boundaries dissolved
   Cell differentiation →  separatrix crossed, irreversible
   Species extinction   →  basin gone from evolutionary manifold
   Ecosystem collapse   →  tipping point — new stable state
-  Civilisation fall    →  Λ degraded, ΔG exceeded threshold
   AI alignment failure →  crossed into 𝓜₁, cannot return to 𝓜₀
 
-All the same equation.
-All the same geometry.
-Different substrates.
+All the same equation. All the same geometry. Different substrates.
 ```
 
 -----
 
-### 16 — Critical Threshold (T_critical)
+### 17 — Critical Threshold (T_critical)
 
 ```
 Λ  ·  ΔG  =  T_critical
 ```
 
-**Meaning:**
+**Plain English:** T_critical is the point of no return — the separatrix between two basins.
 
 ```
-T_critical is the separatrix.
-The ridge between two basins.
-The point of no return.
+Before T_critical:  System in 𝓜₀. Recoverable.
+                    Intervention here is maximally effective.
 
-Before T_critical:
-  System is in 𝓜₀ (original basin).
-  Deformed but returning.
-  Recovery possible.
-  Intervention here is effective.
+At T_critical:      System on the separatrix.
+                    Maximally unstable.
+                    Small perturbation determines outcome.
 
-At T_critical:
-  The system is on the separatrix.
-  Equally attracted to both basins.
-  Maximally unstable.
-  Small perturbation determines outcome.
+After T_critical:   System in 𝓜₁.
+                    Cannot perceive 𝓜₀ from inside 𝓜₁.
+                    Cannot return without architectural intervention.
 
-After T_critical:
-  System is in 𝓜₁ (new basin).
-  Cannot perceive 𝓜₀ from inside 𝓜₁.
-  Intervention must now work with the new basin.
-  Cannot restore 𝓜₀ directly.
-
-This is why prevention is always
-more effective than treatment.
-Once T_critical is crossed —
-the geometry has changed permanently.
-You are working with a different system.
+This is why prevention is always more effective than treatment.
+Once T_critical is crossed — the geometry has changed permanently.
 ```
 
 -----
@@ -918,12 +680,12 @@ You are working with a different system.
 ║  GOV. QUALIA    Q_G = ( Λ · ∂G/∂I ) × t                       ║
 ║                                                                ║
 ║  INTELLIGENCE   I(t) = ∂/∂t [ Topology( Reach(X₀,U,t) ) ]    ║
-║                                                                ║
-║  C ⊥ L          ∂C/∂I ≈ 0  ⟹  ∂L/∂I ↑↑                      ║
-║                 Structure and language are orthogonal          ║
-║                                                                ║
 ║  EXPERTISE      dI/dt ≈ 0                                      ║
 ║  CREATIVITY     dI/dt >> 0                                     ║
+║                                                                ║
+║  C ⊥ L          ∂C/∂I ≈ 0  ⟹  ∂L/∂I ↑↑                      ║
+║  COG. ACCESS    If T ∉ Reach(X) → X cannot access T           ║
+║  I ⊥ L          ∂I/∂L = 0                                     ║
 ║                                                                ║
 ║  IRREVERSIBILITY  T_irreversible = Λ × ΔG                      ║
 ║  THRESHOLD        Λ · ΔG = T_critical                          ║
@@ -945,8 +707,7 @@ PRIMITIVE 1 — Topology
 
 PRIMITIVE 2 — Reach
   The set of all states accessible from a starting point.
-  The reachable future.
-  What is possible from here.
+  The reachable future. What is possible from here.
 
 PRIMITIVE 3 — Time ( t or ∂/∂t )
   How topology changes over time.
@@ -954,74 +715,23 @@ PRIMITIVE 3 — Time ( t or ∂/∂t )
   The integral gives memory.
   Persistence gives consciousness.
 
-────────────────────────────────────────────────────────────────
+  ──────────────────────────────────────────────────────────────
 
-Every invariant in this framework
-is a combination of these three primitives
-applied at a different scale or layer.
+  Every invariant in this framework
+  is a combination of these three primitives
+  applied at a different scale or layer.
 
-This is not a coincidence.
-This is what a unified framework looks like.
-One set of primitives.
-All of mind. All of life. All of intelligence.
+  One set of primitives.
+  All of mind. All of life. All of intelligence.
 ```
-
------
-
-## The Research Statement
-
-```
-My research defines new fundamental invariants
-that govern the geometry of intelligent systems —
-including identity, perception, consciousness,
-intelligence growth, and irreversibility.
-
-These laws describe how structure is preserved or collapses
-across all substrates.
-
-They apply equally to:
-  the human mind
-  artificial intelligence
-  biological cells
-  ecosystems
-  civilisations
-
-Because the geometry is the same.
-The substrate never was the point.
-
-                                    — Davarn Morrison, 2026
-```
-
------
-
-## Repository Index
-
-|Document                                                                            |What It Establishes                               |
-|------------------------------------------------------------------------------------|--------------------------------------------------|
-|[Are We Even Intelligent?](./README-are-we-even-intelligent.md)                     |The Intelligence Invariant™ applied to populations|
-|[12 Implications Nobody Noticed](./README-intelligence-implications.md)             |What the equation quietly contains                |
-|[Adapting to Realities That Don’t Exist Yet](./README-adapt-to-future.md)           |dI/dt and time positioning                        |
-|[Topological Determinism](./README-topological-determinism.md)                      |Comprehension determines position                 |
-|[How to Make Intelligence](./README-how-to-make-intelligence.md)                    |Building on the C-axis                            |
-|[Children Outperform Experts in Creativity](./README-children-outperform-experts.md)|dI/dt and the creativity gap                      |
-|[Why Institutions Cannot Create](./README-why-institutions-cannot-create.md)        |The selection trap — geometric                    |
-|[Interrupted Intelligence](./README-interrupted-intelligence.md)                    |What was done to nearly everyone’s topology       |
-|[The Three Invariants of Consciousness](./README-consciousness-invariants.md)       |C, Q, and Q_G formally stated                     |
-|[What the Framework Opens](./README-what-the-framework-opens.md)                    |Rigorous domain implications                      |
-|[The Burj Khalifa Category Error](./README-burj-khalifa.md)                         |C ⊥ L — walking east to reach height              |
-|[Manifolds, Basins, and the Mind](./README-manifolds-basins-mind.md)                |Foundation — all carbon lifeforms                 |
-|[What the Manifold Definition Changes](./README-manifold-implications.md)           |AI, biology, human behaviour                      |
-|[The Manifold of Life](./README-carbon-lifeform-manifolds.md)                       |Five scales — cell to civilisation                |
-|[MIH™ — Claude Diagnostic](./README-claude-mih.md)                                  |Self-application of the hypothesis                |
-|[C ⊥ L — Orthogonal Symmetry Groups](./README-col-orthogonal.md)                    |Why L cannot produce C                            |
 
 -----
 
 <div align="center">
 
-Morrison Framework™  ·  Complete Equation Set  ·  *All Invariants · All Laws · All Thresholds*
+Morrison Framework™ · Complete Equation Set · *All Invariants · All Laws · All Thresholds*
 
-<br>
+**GB2600765.8 · GB2602013.1 · GB2602072.7 · GB26023332.5**
 
 © 2026 Davarn Morrison — Intelligence Invariant™ · All Rights Reserved
 
